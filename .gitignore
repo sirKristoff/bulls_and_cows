@@ -1,12 +1,22 @@
 ## Editors temporary files
 *~
 *.swp
+.#*
+*.*#
+*.autosave
+# xemacs temporary files
+*.flc
 
 
 ## eclipse project files
 .cproject
 .project
 .settings/
+
+## QT project files
+*.pro
+*.pro.user
+*.pro.user*
 
 
 ## Compiled Object files
@@ -20,7 +30,14 @@
 ## Compiled Dynamic libraries
 *.dll
 *.so
+*.so.*
 
+## Binary files
+*.exe
+
+
+## Generated documentation
+doc/
 
 ## MarkDown temporary files
 *.md.html
