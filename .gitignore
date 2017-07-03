@@ -1,0 +1,26 @@
+## Editors temporary files
+*~
+*.swp
+
+
+## eclipse project files
+.cproject
+.project
+.settings/
+
+
+## Compiled Object files
+*.o
+*.obj
+
+## Compiled Static libraries
+*.a
+*.lib
+
+## Compiled Dynamic libraries
+*.dll
+*.so
+
+
+## MarkDown temporary files
+*.md.html
