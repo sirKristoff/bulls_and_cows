@@ -1,0 +1,19 @@
+/** @page uml Project analysis
+ */
+
+/** @page uml
+ @section external_view    External View
+ 
+ Perspective in Player point of view:
+ - what features are offered
+ - scenarios and sequences of usage
+ 
+ 
+ @subsection usecase_diag    Use Case diagrams
+ 
+ @startuml
+  :Player: -- (Start game)
+  :Player: -- (Guess word)
+  :Player: -- (Quit game)
+ @enduml
+ */
